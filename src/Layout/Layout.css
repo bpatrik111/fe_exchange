@@ -1,0 +1,14 @@
+.frame {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+}
+
+.frame li {
+    float: left;
+    padding: 50px;
+
+}
